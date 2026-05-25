@@ -6,3 +6,4 @@
 /*.bak  
 .env
 error*.html
+/.idea
